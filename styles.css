@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    .fundo{
+    
+    background-image: linear-gradient (45deg, rgb(159, 163, 172), rgba(0, 0, 0, 0.993));
+    height: 100vh;
+    color: rgb(73, 92, 155);
+    font-family:'Times New Roman', Times, serif;
+    }
+    
+    .calculadora{
+    position: absolute;
+    background-color: rgba(219, 219, 219, 0.7);
+    top: 50;
+    left: 50;
+    transform: translate(-50,-50);
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 20px;
+    }
