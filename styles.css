@@ -3,7 +3,7 @@
     padding:0;
 }
 .fundo{
-    background-image: linear-gradient(45deg, rgb(165, 170, 238), rgb(31, 47, 121));
+    background-image: linear-gradient(45deg, rgb(125, 130, 202), rgb(21, 26, 46));
     height: 100vh;
     color:black;
     font-family:'Times New Roman', Times, serif;
@@ -26,7 +26,7 @@ font-size: 20px;
     margin: 3px;
     font-size: 25px;
     cursor: pointer;
-    background-color: rgb(140, 157, 196);
+    background-color: rgb(83, 106, 160);
     border: nome;
     color: black;
 }
